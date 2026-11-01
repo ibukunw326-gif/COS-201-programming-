@@ -5,7 +5,7 @@
 - Matriculation Number: [25/18472]
 - Programme: [Computer science]
 - Course: COS 201
-- 
+  
 ## Week: 1
 Introduction to Programming and Problem-Solving
 

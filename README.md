@@ -1,13 +1,18 @@
-# COS-201-programming-
-COS 201 java programming assignment 
-# COS 201 — Computer Programming I
+ # COS 201 — Computer Programming I
 
 ## Student Information
 - Name: [Williams ibukun oyindamola]
 - Matriculation Number: [25/18472]
 - Programme: [Computer science]
 - Course: COS 201
-- Week: 2
+- 
+## Week: 1
+Introduction to Programming and Problem-Solving
+
+Created and ran my first java program
+
+
+## Week: 2 
 
 ## Practical Title
 Development Environment and First Java Program

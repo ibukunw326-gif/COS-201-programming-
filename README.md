@@ -15,7 +15,6 @@
 
 ### Programs
 1. `week01/FirstProgram.java.
-2. 
 
 ### How to Run
 Open a terminal in the `week01` directory.

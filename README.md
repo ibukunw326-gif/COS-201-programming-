@@ -6,10 +6,23 @@
 - Programme: [Computer science]
 - Course: COS 201
   
-## Week: 1
-Introduction to Programming and Problem-Solving
 
-Created and ran my first java program
+## Week 1:Introduction to Programming and Problem-Solving
+
+### Objectives
+- Set up the Java development environment.
+- Write, compile and run a first Java program.
+
+### Programs
+1. `week01/FirstProgram.java.
+2. 
+
+### How to Run
+Open a terminal in the `week01` directory.
+
+Compile and run the program:
+- `javac FirstProgram.java`
+- `java FirstProgram`
 
 
 ## Week: 2 
